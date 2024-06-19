@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T00:38:44.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="z2nx0P_GVdzZtMRxOzET" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T00:57:45.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="UoWhVFn3YLNuu1eg3e0g" version="24.5.4" type="github">
   <diagram name="페이지-1" id="ZpcOs4shHNh5mx86bvTr">
     <mxGraphModel dx="1461" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="3Uc47XjtdB7wgMT_kZdp-3" value="게임 시작" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="3Uc47XjtdB7wgMT_kZdp-1">
           <mxGeometry x="30" y="40" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3Uc47XjtdB7wgMT_kZdp-4" value="게임 종료" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="3Uc47XjtdB7wgMT_kZdp-1">
+        <mxCell id="3Uc47XjtdB7wgMT_kZdp-4" value="게임 컨텐츠&lt;div&gt;종료&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="3Uc47XjtdB7wgMT_kZdp-1">
           <mxGeometry x="30" y="610" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3Uc47XjtdB7wgMT_kZdp-5" value="조작" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="3Uc47XjtdB7wgMT_kZdp-1">
